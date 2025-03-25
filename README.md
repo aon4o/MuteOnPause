@@ -1,6 +1,6 @@
 # Mute on Pause
 
-A TBOI mod that pauses the music when the game is paused.
+A TBOI mod that mutes the music when the game is paused.
 
 ## Docs
 
